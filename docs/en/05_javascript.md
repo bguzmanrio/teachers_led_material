@@ -574,7 +574,7 @@ In this example, the function `counter` takes no arguments and returns a functio
 1. [Write Arrow Functions with Parameters](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/write-arrow-functions-with-parameters)
 1. [Global Scope and Functions](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-scope-and-functions)
 1. [Local Scope and Functions](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/local-scope-and-functions)
-1. [Global vs. Local Scope in Functions](freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-vs.-local-scope-in-functions)
+1. [Global vs. Local Scope in Functions](https://www.freeCodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-vs.-local-scope-in-functions)
 
 # 03. Objects in depth
 
